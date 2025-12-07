@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gamler-2306ffa4.zappy5.app/sitemap.xml
